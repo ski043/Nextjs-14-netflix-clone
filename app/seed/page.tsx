@@ -14,7 +14,7 @@ export default function SeedDatabase() {
           overview:
             "The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.",
           videoSource:
-            "https://res.cloudinary.com/dsouibklx/video/upload/v1699471985/vxht66zpfit14wkgpj0a.mp4",
+            "https://utfs.io/f/916e1354-a1b6-4832-97ab-9fa95876b91a-bnyedt.mp4",
           imageString:
             "https://image.tmdb.org/t/p/original/r7DuyYJ0N3cD8bRKsR5Ygq2P7oa.jpg",
           release: 2023,
